@@ -45,7 +45,7 @@ Multi-GPU support with `PIPELINE_PARALLEL` policy (HETERO device)
 
 Full-stack application for personal financial portfolio management — income, expenses, reports. Monorepo orchestrated via Docker Compose.
 
-**Backend**: Java Spring Boot 3.5 — layered architecture, Lombok, DTO validation
+**Backend**: Java Spring Boot 3.5 — layered architecture, Lombok, DTO validation <br>
 **Frontend**: Angular 20 (standalone components) + Bootstrap 5.3
 **Database**: MySQL 8.0
 **Deploy**: Docker Compose (Nginx + Spring Boot + MySQL)
