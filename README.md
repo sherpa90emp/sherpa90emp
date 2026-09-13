@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hi! I'm **Andrea Chiappi** https://www.flaticon.com/free-icon/hand_15452421?term=hello&page=1&position=42&origin=search&related_id=15452421
+### Hi! I'm **Andrea Chiappi** <a href="https://www.flaticon.com/free-icons/robot" title="robot icons">Robot icons created by Magnific - Flaticon</a>
 
 Italian junior developer
 
