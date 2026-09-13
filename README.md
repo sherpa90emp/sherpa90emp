@@ -31,11 +31,11 @@ I'm not a senior yet, but I have a lot of curiosity.
 
 An AI assistant that runs **entirely on my PC**, no cloud required. Exposes an OpenAI-compatible REST API, used as a backend for Continue (IDE autocomplete) and a web chat.
 
-**OpenVINO GenAI** for LLM/VLM inference on Intel Arc GPU (with automatic CPU fallback)
-**Personalized quantization** via `optimum.intel`
-**Tool calling**
-**SSE streaming** with `think` block filtering for reasoning models (Qwen)
-Multi-GPU support with `PIPELINE_PARALLEL` policy (HETERO device)
+**OpenVINO GenAI** for LLM/VLM inference on Intel Arc GPU (with automatic CPU fallback) <br>
+**Personalized quantization** via `optimum.intel`<br>
+**Tool calling**<br>
+**SSE streaming** with `think` block filtering for reasoning models (Qwen)<br>
+Multi-GPU support with `PIPELINE_PARALLEL` policy (HETERO device)<br>
 
 *Python · FastAPI · OpenVINO · Uvicorn · colorama*
 
@@ -46,9 +46,9 @@ Multi-GPU support with `PIPELINE_PARALLEL` policy (HETERO device)
 Full-stack application for personal financial portfolio management — income, expenses, reports. Monorepo orchestrated via Docker Compose.
 
 **Backend**: Java Spring Boot 3.5 — layered architecture, Lombok, DTO validation <br>
-**Frontend**: Angular 20 (standalone components) + Bootstrap 5.3
-**Database**: MySQL 8.0
-**Deploy**: Docker Compose (Nginx + Spring Boot + MySQL)
+**Frontend**: Angular 20 (standalone components) + Bootstrap 5.3<br>
+**Database**: MySQL 8.0<br>
+**Deploy**: Docker Compose (Nginx + Spring Boot + MySQL)<br>
 
 *Java · Spring Boot · Angular · TypeScript · MySQL · Docker*
 
@@ -58,11 +58,11 @@ Full-stack application for personal financial portfolio management — income, e
 
 Web dashboard for **real-time monitoring of local Docker containers**. Reads directly from the Docker Unix socket and displays state, duration, and health of each container.
 
-**Symfony 8** with PHP 8.4
-**Docker Engine integration** via cURL on `/var/run/docker.sock`
-**Doctrine ORM** with PHP attribute mapping
-**UI**: Twig + Bootstrap 5.3
-**Full stack in containers**: nginx + php-fpm + MySQL via Docker Compose
+**Symfony 8** with PHP 8.4<br>
+**Docker Engine integration** via cURL on `/var/run/docker.sock`<br>
+**Doctrine ORM** with PHP attribute mapping<br>
+**UI**: Twig + Bootstrap 5.3<br>
+**Full stack in containers**: nginx + php-fpm + MySQL via Docker Compose<br>
 
 *PHP · Symfony · Doctrine · Twig · Docker · MySQL*
 
