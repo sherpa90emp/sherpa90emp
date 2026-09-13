@@ -8,6 +8,8 @@ Italian junior developer
 
 ---
 
+<div align="center">
+  
 ## 🧠 About Me
 
 I started coding a little over a year ago and haven't stopped since. I like taking real-world problems and turning them into working software — from running AI models locally on my own hardware to building full-stack dashboards to monitor my Docker containers.
@@ -20,12 +22,11 @@ I'm not a senior yet, but I have a lot of curiosity.
 
 | | |
 |---|---|
-| **Languages** | Python · Java · PHP · TypeScript |
+| **Languages** | ![Python](https://img.shields.io/badge/Python?style=flat&logo=%233776AB) · Java · PHP · TypeScript |
 | **AI / ML** | OpenVINO · HuggingFace Transformers · FastAPI |
 | **Backend** | Spring Boot · Symfony · Doctrine ORM |
 | **Frontend** | Angular · Vanilla JS · SCSS · Bootstrap |
 | **Infra** | Docker · Docker Compose · Nginx · MySQL |
-| **Hardware** | Intel Arc B50 (GPU) · CPU fallback |
 
 ---
 
@@ -35,9 +36,9 @@ I'm not a senior yet, but I have a lot of curiosity.
 
 An AI assistant that runs **entirely on my PC**, no cloud required. Exposes an OpenAI-compatible REST API, used as a backend for Continue (IDE autocomplete) and a web chat.
 
-- **OpenVINO GenAI** for LLM/VLM inference on Intel Arc B50 GPU (with automatic CPU fallback)
+- **OpenVINO GenAI** for LLM/VLM inference on Intel Arc GPU (with automatic CPU fallback)
 - **Personalized quantization** via `optimum.intel`
-- **Tool calling**: file read/write, embeddings
+- **Tool calling**
 - **SSE streaming** with `think` block filtering for reasoning models (Qwen)
 - Multi-GPU support with `PIPELINE_PARALLEL` policy (HETERO device)
 
@@ -49,7 +50,7 @@ An AI assistant that runs **entirely on my PC**, no cloud required. Exposes an O
 
 Full-stack application for personal financial portfolio management — income, expenses, reports. Monorepo orchestrated via Docker Compose.
 
-- **Backend**: Java Spring Boot 3.5 — layered architecture (Controller → Service → Repository → Entity), Lombok, DTO validation
+- **Backend**: Java Spring Boot 3.5 — layered architecture, Lombok, DTO validation
 - **Frontend**: Angular 20 (standalone components) + Bootstrap 5.3
 - **Database**: MySQL 8.0
 - **Deploy**: Docker Compose (Nginx + Spring Boot + MySQL)
@@ -62,7 +63,7 @@ Full-stack application for personal financial portfolio management — income, e
 
 Web dashboard for **real-time monitoring of local Docker containers**. Reads directly from the Docker Unix socket and displays state, duration, and health of each container.
 
-- **Symfony 8** with PHP 8.4 — attribute-based routing, method injection, readonly DTOs
+- **Symfony 8** with PHP 8.4
 - **Docker Engine integration** via cURL on `/var/run/docker.sock`
 - **Doctrine ORM** with PHP attribute mapping
 - **UI**: Twig + Bootstrap 5.3
@@ -85,6 +86,8 @@ Web dashboard for **real-time monitoring of local Docker containers**. Reads dir
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-chiappi/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sherpa90emp)
+
+</div>
 
 ---
 
