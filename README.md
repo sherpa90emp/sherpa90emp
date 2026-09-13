@@ -22,7 +22,7 @@ I'm not a senior yet, but I have a lot of curiosity.
 
 | | |
 |---|---|
-| **Languages** | ![Python](https://img.shields.io/badge/Python?style=flat&logo=%233776AB) · Java · PHP · TypeScript |
+| **Languages** | ![StaticBadge](https://img.shields.io/badge/Python?style=flat&logo=%233776AB) · Java · PHP · TypeScript |
 | **AI / ML** | OpenVINO · HuggingFace Transformers · FastAPI |
 | **Backend** | Spring Boot · Symfony · Doctrine ORM |
 | **Frontend** | Angular · Vanilla JS · SCSS · Bootstrap |
