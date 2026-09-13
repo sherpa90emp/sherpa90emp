@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hi! I'm **Andrea Chiappi** <a href="https://www.flaticon.com/free-icons/robot" title="robot icons">Robot icons created by Magnific - Flaticon</a>
+### Hi! I'm **Andrea Chiappi** <img src="robot" width="50" height="50">
 
 Italian junior developer
 
