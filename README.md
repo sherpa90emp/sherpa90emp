@@ -20,29 +20,8 @@ I'm not a senior yet, but I have a lot of curiosity.
 
 ## 🛠️ Tech Stack
 
-| | |
-|---|---|
-| **Languages** | ![Static Badge](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python) · ![Static Badge](https://img.shields.io/badge/JAVA-blue?style=for-the-badge)
- · ![Static Badge](https://img.shields.io/badge/PHP-white?style=for-the-badge&logo=php)
- · ![Static Badge](https://img.shields.io/badge/Typescript-white?style=for-the-badge&logo=typescript)
- |
-| **AI / ML** | ![Static Badge](https://img.shields.io/badge/OpenVINO-blue?style=for-the-badge&logo=intel)
- · ![Static Badge](https://img.shields.io/badge/Transformers-white?style=for-the-badge&logo=huggingface)
- · ![Static Badge](https://img.shields.io/badge/FastAPI-white?style=for-the-badge&logo=fastapi)
- |
-| **Backend** | ![Static Badge](https://img.shields.io/badge/Java%20Spring-white?style=for-the-badge&logo=spring) · ![Static Badge](https://img.shields.io/badge/Symfony-blue?style=for-the-badge&logo=symfony)
-| **Frontend** | ![Static Badge](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular)
- · ![Static Badge](https://img.shields.io/badge/Javascript-white?style=for-the-badge&logo=javascript)
- · ![Static Badge](https://img.shields.io/badge/Bootstrap-white?style=for-the-badge&logo=bootstrap)
- |
-| **Infra** | ![Static Badge](https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker)
- · ![Static Badge](https://img.shields.io/badge/NGINX-blue?style=for-the-badge&logo=nginx)
- · ![Static Badge](https://img.shields.io/badge/MySql-white?style=for-the-badge&logo=mysql)
- |
-| **IDE** | ![Static Badge](https://img.shields.io/badge/Intellijdea-purple?style=for-the-badge&logo=intellijidea)
-· ![Static Badge](https://img.shields.io/badge/VSC-blue?style=for-the-badge)
-· ![Static Badge](https://img.shields.io/badge/phpstorm-purple?style=for-the-badge&logo=phpstorm)
-| 
+![Static Badge](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python) ![Static Badge](https://img.shields.io/badge/JAVA-blue?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/PHP-white?style=for-the-badge&logo=php) ![Static Badge](https://img.shields.io/badge/Typescript-white?style=for-the-badge&logo=typescript) ![Static Badge](https://img.shields.io/badge/OpenVINO-blue?style=for-the-badge&logo=intel)
+![Static Badge](https://img.shields.io/badge/Transformers-white?style=for-the-badge&logo=huggingface) ![Static Badge](https://img.shields.io/badge/FastAPI-white?style=for-the-badge&logo=fastapi) ![Static Badge](https://img.shields.io/badge/Java%20Spring-white?style=for-the-badge&logo=spring) ![Static Badge](https://img.shields.io/badge/Symfony-blue?style=for-the-badge&logo=symfony) ![Static Badge](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular) ![Static Badge](https://img.shields.io/badge/Javascript-white?style=for-the-badge&logo=javascript) ![Static Badge](https://img.shields.io/badge/Bootstrap-white?style=for-the-badge&logo=bootstrap) ![Static Badge](https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker) ![Static Badge](https://img.shields.io/badge/NGINX-blue?style=for-the-badge&logo=nginx) ![Static Badge](https://img.shields.io/badge/MySql-white?style=for-the-badge&logo=mysql) ![Static Badge](https://img.shields.io/badge/Intellijdea-purple?style=for-the-badge&logo=intellijidea) ![Static Badge](https://img.shields.io/badge/VSC-blue?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/phpstorm-purple?style=for-the-badge&logo=phpstorm)
 
 ---
 
