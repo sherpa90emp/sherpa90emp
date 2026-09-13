@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hi! I'm **Andrea Chiappi** 👋
+### Hi! I'm **Andrea Chiappi** (https://www.flaticon.com/free-icon/hand_15452421?term=hello&page=1&position=42&origin=search&related_id=15452421)
 
 Italian junior developer
 
@@ -37,7 +37,7 @@ An AI assistant that runs **entirely on my PC**, no cloud required. Exposes an O
 **SSE streaming** with `think` block filtering for reasoning models (Qwen)
 Multi-GPU support with `PIPELINE_PARALLEL` policy (HETERO device)
 
-> *Python · FastAPI · OpenVINO · Uvicorn · colorama*
+*Python · FastAPI · OpenVINO · Uvicorn · colorama*
 
 ---
 
@@ -50,7 +50,7 @@ Full-stack application for personal financial portfolio management — income, e
 **Database**: MySQL 8.0
 **Deploy**: Docker Compose (Nginx + Spring Boot + MySQL)
 
-> *Java · Spring Boot · Angular · TypeScript · MySQL · Docker*
+*Java · Spring Boot · Angular · TypeScript · MySQL · Docker*
 
 ---
 
@@ -64,7 +64,7 @@ Web dashboard for **real-time monitoring of local Docker containers**. Reads dir
 **UI**: Twig + Bootstrap 5.3
 **Full stack in containers**: nginx + php-fpm + MySQL via Docker Compose
 
-> *PHP · Symfony · Doctrine · Twig · Docker · MySQL*
+*PHP · Symfony · Doctrine · Twig · Docker · MySQL*
 
 ---
 
